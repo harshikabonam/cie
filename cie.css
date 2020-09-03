@@ -130,6 +130,222 @@ body{
 
 @media only screen and (min-device-width:767px) and (max-device-width:1024px) 
 {
+    
+  
+        .leftalign
+        {
+        margin-left:75px;
+        }
+        /* navbar */
+        .brandlogo
+        {
+        height:50px;
+        width:30px;
+        margin:10px 0 0 75px;
+        }
+        .navbar{
+            height:80px;
+        }
+        .brand{
+            padding:7px 0 0 15px;
+            font-size:28px;
+            margin:10px 0 0 0;
+        }
+        .underline{
+            margin-right: 50px;
+            font-weight:500;
+            font-size:22px;
+            margin-top:10px;
+        }
+        .button{
+            font-size:18px;
+            font-weight:500;
+            height:40px;
+            width:100px;
+            margin-right: 75px;
+            margin-top: 15px;
+            
+        }
+        /* topbackground */
+        .background{
+            margin:10px 0 0  -240px;
+        }
+        /* topright*/
+        .right
+        {
+            margin: -600px 0 0 0 ;
+        }
+        .serverconnect
+        {
+        margin:0 0 0 -100px;
+        width:900px;
+        height:460px;
+            margin:-320px 0 0 600px;
+            height:1500px;
+            width:1500px;
+        }
+        .cards
+        {
+            margin-top:-1100px;
+        }
+        .card {
+            margin-top:30px;
+            width: 85%;
+          }
+          .car {
+            margin-top:30px;
+            width: 85%;
+          }
+          .container {
+            padding: 2px 16px;
+          }
+          .topcolor1
+          {
+              height:10px;
+              background-color: #6C63FF;
+          }
+          .topcolor2
+          {
+              height:10px;
+              background-color: #3F3D56;
+          }
+          .topcolor3
+          {
+              height:10px;
+              background-color: #D67F1F;
+          }
+          .manimg
+          {
+              margin:20px 0 0 20px;
+          }
+          .cardpara
+          {
+              font-size: 17px;
+          }
+          .projectbutton{
+            font-size:13px;
+            font-weight:600;
+            width:100px;
+            padding: 7px;
+            margin-right: 75px;
+            margin-top:20px;
+            margin:20px 75px 20px 0;
+          }
+          
+          .last
+          {
+              margin:-170px 0 0 -580px;
+              width:1800px;
+          }
+        /* services */
+        .ser
+        {
+            margin-top:-1510px ;
+            font-size:28px;
+            font-weight:bold;
+        }
+        .para
+        {
+        font-size:13px;
+        font-weight: 600;
+        margin-top:5px ;
+        }
+        .end
+        {
+            background-color: white;
+            display: flex;
+            flex-direction: row;
+            display: grid;
+            grid-template-columns:auto auto auto ;
+            margin-top: 50px;
+        }
+        /* contact */
+        .cont
+        {
+            margin-top:80px ;
+            font-size:28px;
+            font-weight:bold;
+        }
+        
+        .content
+        {
+        font-size:13px;
+        font-weight: 600;
+        margin-top:5px ;
+        }
+        .inputbox
+        {
+            margin-top: 50px;
+            width: 400px;
+            height:45px;
+        }
+        .inputbox2
+        {
+            margin-top: 50px;
+            width: 400px;
+            height:380px;
+        }
+        .second
+        {
+            margin-top: -30px;
+        }
+        .person
+        {
+            margin:-25px 0 0 250px;
+        }
+        .personimg
+        {
+            
+            height:740px;
+        }
+        /* final */
+        .ending{
+            margin-top: 180px;
+            width:1600px;
+        }
+        .contactnum1
+        {
+            margin:-400px 0 0 700px;
+        }
+        .tag1
+        {
+            margin: 20px 0 0 630px;
+        font-weight: bold;
+        font-size: 30px;
+        }
+        .tag2{
+        
+            font-weight: bold;
+            font-size: 30px;
+            margin: 0px 0 0 680px;
+        }
+        .lasttext
+        {
+            font-size: 14px;
+        }
+        .text1
+        {
+            margin: 20px 0 0 640px; 
+        }
+        .text2
+        {
+            margin: 5px 0 0 600px; 
+        }
+        .lastbutton{
+            margin: 30px 0 0 740px;
+        }
+        .endingtext{
+            margin:60px 0 0 290px;
+        }
+        .cie
+        {
+            margin:0 0 0 400px;
+            color:#0080F3;
+        }
+        .cprights
+        {
+            margin:0 0 0 20px;
+        }
 }
 @media only screen and  (min-device-width:1921px) and (max-device-width:2560px)  
 { 
