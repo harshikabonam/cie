@@ -1,0 +1,30 @@
+<svg id="server" xmlns="http://www.w3.org/2000/svg" width="171.873" height="220.418" viewBox="0 0 171.873 220.418">
+  <rect id="Rectangle_127" data-name="Rectangle 127" width="171.873" height="127.921" transform="translate(149.897 5.248) rotate(90)" fill="#2f2e41"/>
+  <g id="Group_38" data-name="Group 38">
+    <rect id="Rectangle_128" data-name="Rectangle 128" width="171.873" height="68.225" transform="translate(0)" fill="#3f3d56"/>
+    <rect id="Rectangle_131" data-name="Rectangle 131" width="171.873" height="10.496" transform="translate(0 28.927)" fill="#0080f3"/>
+    <g id="Group_35" data-name="Group 35" transform="translate(134.481 5.904)">
+      <circle id="Ellipse_51" data-name="Ellipse 51" cx="3.936" cy="3.936" r="3.936" fill="#0080f3"/>
+      <circle id="Ellipse_52" data-name="Ellipse 52" cx="3.936" cy="3.936" r="3.936" transform="translate(13.776)" fill="#0080f3"/>
+      <circle id="Ellipse_53" data-name="Ellipse 53" cx="3.936" cy="3.936" r="3.936" transform="translate(27.552)" fill="#0080f3"/>
+    </g>
+  </g>
+  <g id="Group_37" data-name="Group 37" transform="translate(0 76.097)">
+    <rect id="Rectangle_129" data-name="Rectangle 129" width="171.873" height="68.225" transform="translate(0 0)" fill="#3f3d56"/>
+    <rect id="Rectangle_132" data-name="Rectangle 132" width="171.873" height="10.496" transform="translate(0 28.927)" fill="#0080f3"/>
+    <g id="Group_34" data-name="Group 34" transform="translate(134.481 4.592)">
+      <circle id="Ellipse_54" data-name="Ellipse 54" cx="3.936" cy="3.936" r="3.936" fill="#0080f3"/>
+      <circle id="Ellipse_55" data-name="Ellipse 55" cx="3.936" cy="3.936" r="3.936" transform="translate(13.776)" fill="#0080f3"/>
+      <circle id="Ellipse_56" data-name="Ellipse 56" cx="3.936" cy="3.936" r="3.936" transform="translate(27.552)" fill="#0080f3"/>
+    </g>
+  </g>
+  <g id="Group_36" data-name="Group 36" transform="translate(0 152.193)">
+    <rect id="Rectangle_130" data-name="Rectangle 130" width="171.873" height="68.225" transform="translate(0)" fill="#3f3d56"/>
+    <rect id="Rectangle_133" data-name="Rectangle 133" width="171.873" height="10.496" transform="translate(0 28.927)" fill="#0080f3"/>
+    <g id="Group_33" data-name="Group 33" transform="translate(134.481 3.28)">
+      <circle id="Ellipse_57" data-name="Ellipse 57" cx="3.936" cy="3.936" r="3.936" fill="#0080f3"/>
+      <circle id="Ellipse_58" data-name="Ellipse 58" cx="3.936" cy="3.936" r="3.936" transform="translate(13.776)" fill="#0080f3"/>
+      <circle id="Ellipse_59" data-name="Ellipse 59" cx="3.936" cy="3.936" r="3.936" transform="translate(27.552)" fill="#0080f3"/>
+    </g>
+  </g>
+</svg>

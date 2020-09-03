@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="367" height="206" viewBox="0 0 367 206">
+  <g id="Group_130" data-name="Group 130" transform="translate(0 0)">
+    <g id="laptop" transform="translate(0 0)">
+      <g id="chassis" transform="translate(12.999 0)">
+        <rect id="bessels" width="341" height="192" rx="4" transform="translate(0 0)" fill="#3f3e50"/>
+        <g id="camera" transform="translate(166.001 2)">
+          <circle id="Ellipse_12" data-name="Ellipse 12" cx="2" cy="2" r="2" transform="translate(-0.001 0)" fill="#a2a8ad"/>
+          <circle id="Ellipse_13" data-name="Ellipse 13" cx="1" cy="1" r="1" transform="translate(4.999 1)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="screen" transform="translate(21 7)">
+        <g id="screen-2" data-name="screen" transform="translate(-0.001 0)" fill="#0080f3" stroke="#3f3e50" stroke-width="1">
+          <rect width="324" height="182" rx="3" stroke="none"/>
+          <rect x="0.5" y="0.5" width="323" height="181" rx="2.5" fill="none"/>
+        </g>
+      </g>
+      <g id="keyboard" transform="translate(0 188)">
+        <rect id="Rectangle_39" data-name="Rectangle 39" width="367" height="18" rx="2" transform="translate(0 0)" fill="#3f3e50"/>
+      </g>
+    </g>
+  </g>
+</svg>
